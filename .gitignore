@@ -1,0 +1,10 @@
+/wp-content/themes/twenty*
+/wp-content/upgrade
+/wp-content/themes/myPortfolio/app-frontend
+/sitemap.*
+*.sql
+
+*.DS_Store
+*Thumbs.db
+*.sass-cache*
+*~imageoptim*
